@@ -2,26 +2,23 @@
   "title": "Stranger Things",
   "active": true,
   "poster": "https://image.tmdb.org/t/p/original/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
-  "content": [
-    {
+  "content": {
 
-      "t1": [
-        {
-          "ep1": {
-            "title": "Capítulo um: O desaparecimento de Will Byers",
-            "backdrop": "https://image.tmdb.org/t/p/original/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
-            "dublado": "",
-            "legendado": ""
-          },
-          "ep2": {
-            "title": "Capítulo dois: A estranha da Maple Street",
-            "backdrop": "https://image.tmdb.org/t/p/original/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
-            "dublado": "",
-            "legendado": ""
-          } 
-        }
-      ]
-
+    "t1": {
+      "ep1": {
+        "title": "Capítulo um: O desaparecimento de Will Byers",
+        "backdrop": "https://image.tmdb.org/t/p/original/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
+        "dublado": "",
+        "legendado": ""
+      },
+      "ep2": {
+        "title": "Capítulo dois: A estranha da Maple Street",
+        "backdrop": "https://image.tmdb.org/t/p/original/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+        "dublado": "",
+        "legendado": ""
+      } 
     }
-  ]
+      
+  }
+  
 }
