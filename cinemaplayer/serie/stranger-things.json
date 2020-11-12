@@ -4,17 +4,15 @@
   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
   "content": [
     {
-      
+
       "t1": [
         {
-          "ep1": [
-            {
-              "title": "Capítulo um: O desaparecimento de Will Byers",
-              "backdrop": "https://image.tmdb.org/t/p/original/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
-              "dublado": "",
-              "legendado": ""
-            }
-          ]   
+          "ep1": {
+            "title": "Capítulo um: O desaparecimento de Will Byers",
+            "backdrop": "https://image.tmdb.org/t/p/original/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
+            "dublado": "",
+            "legendado": ""
+          }   
         }
       ]
 
