@@ -8,8 +8,8 @@
       "ep1": {
         "title": "Capítulo um: O desaparecimento de Will Byers",
         "backdrop": "https://image.tmdb.org/t/p/original/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
-        "dublado": "",
-        "legendado": ""
+        "dublado": "dublado",
+        "legendado": "legendado"
       },
       "ep2": {
         "title": "Capítulo dois: A estranha da Maple Street",
