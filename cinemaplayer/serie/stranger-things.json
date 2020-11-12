@@ -1,19 +1,13 @@
 {
   "title": "Stranger Things",
-  "date": 2016,
   "active": true,
-  "members": [
+  "poster": "",
+  "release_date":"18/12/2015",
+  "content": [
     {
       "name": "Eternal Flame",
       "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "secretIdentity": "Unknown"
     }
   ]
 }
