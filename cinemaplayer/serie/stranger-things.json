@@ -1,8 +1,8 @@
 {
   "title": "Stranger Things",
   "active": true,
-  "poster": "",
-  "release_date":"18/12/2015",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
+  "release_date":"15/07/2016",
   "content": [
     {
       "name": "Eternal Flame",
