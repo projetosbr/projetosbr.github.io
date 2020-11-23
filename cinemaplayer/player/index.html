@@ -1,11 +1,186 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
 	<title>CinemaPlayer</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  	<link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
+  	<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  	<link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css" rel="stylesheet" />
+  	<style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+    body {
+      background: #000000;
+    }
+    #cinema-player {
+      width: 100vw;
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      border: none;
+    }
+    .vjs-picture-in-picture-control {
+      display: none !important;
+    }
+    #error {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      color: white;
+      font-family: arial;
+      text-align: center;
+      display: none;
+    }
+    #error.show {
+      background: black;
+      display: block;
+      z-index: 110;
+    }
+    #ads {
+    	height: 100vh;
+    	width: 100%;
+    	opacity: 1;
+    	position: absolute;
+    	z-index: -50;
+    }
+  </style>
 </head>
 <body>
 
-	html player
+	<div id="error"></div>
+	<div id="player-space"></div>
+	<div id="ads">
+		<iframe id="ads-iframe"
+	        width="100%" height="100%"
+	        src="https://www.youtube.com/embed/HW-V5mDRo7I?mute=1&autoplay=1"
+	        frameborder="0">
+	    </iframe>
+	</div>
+
+	<script>
+	var url = window.location.href;
+	url = url.replace('https://projetosbr.github.io/cinemaplayer/player/?', '');
+	url = url.replace(/=/g, ',');
+	url = url.replace(/&/g, ',');
+	var urlSplit = url.split(",");
+
+	var oque;
+	var qual;
+	for (let i=0; i<urlSplit.length; i++) {
+	  if (urlSplit[i] == "serie") {
+	    oque = "serie";
+	    qual = urlSplit[i+1];
+	  }
+	  if (urlSplit[i] == "filme") {
+	    oque = "filme";
+	    qual = urlSplit[i+1];
+	  }
+	  if (urlSplit[i] == "temporada") {
+	    var temporada = urlSplit[i+1];
+	  }
+	  if (urlSplit[i] == "episodio") {
+	    var episodio = urlSplit[i+1];
+	  }
+	  if (urlSplit[i] == "audio") {
+	    var audio = urlSplit[i+1];
+	  }
+	}
+
+	if (oque == 'serie' || oque == 'filme') {
+	  var requestURL = 'https://projetosbr.github.io/cinemaplayer/' + oque + '/' + qual + '.json';
+	  var request = new XMLHttpRequest();
+	  request.open('GET', requestURL);
+	  request.responseType = 'json';
+	  request.send();
+
+	  request.onload = function() {
+	    var json = request.response;
+	    var error = document.getElementById('error');
+	    //console.log(json);
+
+	    if (json == null) {
+	      error.innerHTML = 'erro no player: não temos esse título';
+	      error.classList.add("show");
+	    } else {
+	      document.title = json['title'] + ' - Temporada ' + temporada + ' - Episódio ' + episodio;
+
+	      if (oque == 'filme') {
+	        if (json['active'] == true) { // VERIFICAR SE ESTA ATIVA
+	          if (json['content'][audio] != '') { // VERIFICAR SE TEM O AUDIO
+	            // start: PLAYER FILME
+	              error.innerHTML = 'erro no player: não temos filmes disponíveis';
+	              error.classList.add("show");
+	            // finish: PLAYER FILME
+	          } else {
+	            //error.innerHTML = 'erro no player: não temos esse filme '+audio;
+	            error.innerHTML = 'erro no player: não temos filmes disponíveis';
+	            error.classList.add("show");
+	          }
+	        } else {
+	          //error.innerHTML = 'erro no player: '+json['title']+' não esta ativa no CinemaPlayer';
+	          error.innerHTML = 'erro no player: não temos filmes disponíveis';
+	          error.classList.add("show");
+	        }
+	      } else if (oque == 'serie') {
+	        var tp = 't'+temporada;
+	        var ep = 'ep'+episodio;
+
+	        if (json['active'] == true) { // VERIFICAR SE ESTA ATIVA
+	          if (json['content'].hasOwnProperty(tp)) { // VERIFICAR SE EXISTE A TEMPORADA
+	            if (json['content'][tp].hasOwnProperty(ep)) { // VERIFICAR SE EXISTE O EPISÓDIO
+	              if (json['content'][tp][ep][audio] != '') { // VERIFICAR SE TEM O AUDIO
+	                var player;
+	                if (json['content'][tp][ep].hasOwnProperty(audio+'-hd') && json['content'][tp][ep][audio+'-hd'] !== '') {
+	                	// start: PLAYER SERIE HD
+		                player = '</div><video id="cinema-player" class="video-js vjs-theme-city" controls preload="auto" poster="'+json['content'][tp][ep]['backdrop']+'" data-setup="{}">';
+		                player = player + '<source src="'+json['content'][tp][ep][audio+'-hd']+'" type="video/mp4" />';
+		                player = player + '<p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video</p>';
+		                player = player + '</video>';
+		                // finish: PLAYER SERIE HD
+	                } else {
+	                	// start: PLAYER SERIE
+	                  	player = '</div><iframe id="cinema-player" src="'+json['content'][tp][ep][audio]+'" allowfullscreen="allowfullscreen" ebkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" frameborder="0"></iframe>';
+	                  	// finish: PLAYER SERIE
+	                }
+	                document.getElementById('player-space').innerHTML = player;
+	              } else {
+	                error.innerHTML = 'erro no player: não temos esse episodio '+audio;
+	                error.classList.add("show");
+	              }
+	            } else {
+	              error.innerHTML = 'erro no player: não temos esse episodio';
+	              error.classList.add("show");
+	            }
+	          } else {
+	            error.innerHTML = 'erro no player: não temos essa temporada';
+	            error.classList.add("show");
+	          }
+	        } else {
+	          error.innerHTML = 'erro no player: '+json['title']+' não esta ativa no CinemaPlayer';
+	          error.classList.add("show");
+	        }
+	      } else {
+	        error.innerHTML = 'erro no player';
+	        error.classList.add("show");
+	      }
+	    }
+	  }
+
+	} else {
+	  document.body.innerHTML = 'nada pra ver aqui.';
+	}
+	</script>
+
+	<script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
 
 </body>
 </html>
