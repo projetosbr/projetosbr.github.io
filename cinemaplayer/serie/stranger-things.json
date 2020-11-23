@@ -5,18 +5,186 @@
 
     "t1": {
       "ep1": {
-        "hd": false,
         "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dywG_ifjk2JhvX_rqiQfOKGxvydFl5WbVRoaD1GyDQZR0oO89Ty3AEQgrci46WnBHUpa5C0PvrrRBgV2AaFzWl9UgA5v-sObYKLfHo0pSI4cFSkYJ8cOrq3d8uKn4ITe5TZPSQ",
+        "legendado": "",
         "dublado-hd": "",
-        "legendado-hd": "",
-        "dublado": "https://www.blogger.com/video.g?token=AD6v5dz4btOif4immDz3-S1C-w3HrPSjfH0nDF_xkcDc_2h7tdg8Ytvd9iGemMpqYiQQpbDxAPkPE6eEvUIZLH220PxSgdeBAOF1ydXj7_L_4Qwd4VIzGIpfFPHEBE-c7mn0TLKVeYQ",
-        "legendado": "legendado"
+        "legendado-hd": ""
       },
       "ep2": {
-        "backdrop": "https://image.tmdb.org/t/p/original/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dyDYZUOqm8rJPGpYpIvHpDbtDaaq_NlXqldJBaHwUeHXGZytlo3rlOkFI9RpUoNyq85Ne-UJqX_Lc7pdCas6RmeshRyDzGd4N-JqCFCDFtbUXs3ECmkbkf60Bk3lc4dv5w-RDY",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dxrYwnjW8GFrfk5vdwMNsMPyOnF9s0e8r3fU4Zh0iy87qCNvBf3go35_wnsicAfmzKocnbPcQhMCgBbZNfvOAFCANEjdk5lKOculd5ahrJ7MmhJY-8wfG-9F1MdVIJJNhNb_W8",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dwBdGvLyPvXnlp-Fmp_XSijOY3rwtudJbC5NlNJNlwKEG_5nTBNdmlgJzUkycVFiSkkdsL4KEUT5Q6wY0v-Y-UWA6zTBMGz0SC2CzPlWdaV3ifwdNZUIyACi7o30nYWoypn_q0",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dxM0n0bpV5lqz3kB8ChsupugKmaby47C0Ert5s_0zIa5JgaPTaCzSyuTIewVu5ipWv-kTVY8tAB9hb6_T4G4Tg4iRAElqK_A5eR8z2CoUEUReuC9Z4xoyRxY2gwktpS7ZYcMKUo",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dyRkHykF2fxdqPqZuXGWyVTIo2AU8YIBHSXPbEsFn0OEGe3VN3c7CMAB4tw0o4TwaneLwfpufmfvCryv9Kmb3VHDadnKDzTxGmQzYrYf-qmcs8XnVmV-LGx8HgC75PBFtoD7dWl",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dybj2Fg0SfL9vgme9us1zy7lXxBYgmYLgbcpK54kPald-4OPHcszrB_ddbswqkujKW9nJTEmfYKljCIT4s8LDHBlm3u1EwWJrOcaZKZVTwTOiJdeELkhKma8c2-lfsjrt3PV30",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "https://www.blogger.com/video.g?token=AD6v5dyRbgPc3fL8v4BxoKyWk8eJsy0SaXPs0610ra233IrsW8z6nlvzCUUS1H57QFUEVixX_lAUiZQtN9-GekTbg9PRyojbieqZjc_Bc6rg88OgMrk1hZkxJSPifquD7inf2yA8X54",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      }
+    },
+
+    "t2": {
+      "ep1": {
+        "backdrop": "",
         "dublado": "",
-        "legendado": ""
-      } 
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      }
+    },
+
+    "t3": {
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      }
     }
       
   }
