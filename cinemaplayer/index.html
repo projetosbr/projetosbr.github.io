@@ -154,9 +154,7 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 	request.send();
 
 	request.onload = function() {
-		var json = request.response;
-		//console.log(json);
-		
+		var json = request.response;		
 		document.getElementById('vmTitle').innerHTML = json['title'];
 
 		var vmTable = document.getElementById('vmTable');
