@@ -155,7 +155,6 @@ $('#verificarModal').on('show.bs.modal', function (event) {
   	var title = button.data('title') // Extract info from data-* attributes
 
   	var requestURL = 'https://projetosbr.github.io/cinemaplayer/' + info + '/' + title + '.json';
-  	console.log(requestURL);
 	var request = new XMLHttpRequest();
 	request.open('GET', requestURL);
 	request.responseType = 'json';
@@ -163,7 +162,6 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 
 	request.onload = function() {
 		var json = request.response;		
-		console.log(json);
 		document.getElementById('vmTitle').innerHTML = json['title'];
 
 		var vmTable = document.getElementById('vmTable');
