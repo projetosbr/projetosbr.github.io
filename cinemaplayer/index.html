@@ -182,10 +182,9 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 					epLeg = true;
 				}
 
-				if (tp < 10) { tp="0"+tp; }
-				if (ep < 10) { tp="0"+tp; }
-				
-				table = table+"<tr><td>Temporada "+tp+"</td><td>Episódio "+ep+"</td>";
+				if (tp < 10) { var ttp="0"+tp; } else { var ttp=tp; }
+				if (ep < 10) { var tep="0"+ep; } else { var tep=ep; }
+				table = table+"<tr><td>Temporada "+ttp+"</td><td>Episódio "+tep+"</td>";
 				
 				if (epDub == true) {
 					table = table+"<td><i class='far fa-check-circle text-success'></i></td>";
