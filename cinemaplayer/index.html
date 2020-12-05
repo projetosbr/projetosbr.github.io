@@ -169,11 +169,11 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 
 		for (var t = 0; t < Object.keys(json['content']).length; t++) {
 			var tp = t+1;
-			if (tp > 0 && tp < 10) {
-				tp="0"+tp;
-			}
 
 			for (var e = 0; e < Object.keys(json['content']['t'+tp]).length; e++) {
+				if (tp > 0 && tp < 10) {
+					tp="0"+tp;
+				}
 				var ep = e+1;
 
 				var epDub = false;
