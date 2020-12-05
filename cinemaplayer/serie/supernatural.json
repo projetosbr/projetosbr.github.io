@@ -161,59 +161,2180 @@
     },
 
     "t2": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t3": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t4": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t5": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t6": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t7": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t8": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t9": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t10": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t11": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t12": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t13": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep21": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep22": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep23": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t14": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
 
     "t15": {
-      
+      "ep1": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep2": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep3": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep4": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep5": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep6": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep7": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep8": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep9": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep10": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep11": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep12": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep13": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep14": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep15": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep16": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep17": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep18": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep19": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
+      "ep20": {
+        "backdrop": "",
+        "dublado": "",
+        "legendado": "",
+        "dublado-hd": "",
+        "legendado-hd": ""
+      },
     },
       
   }
