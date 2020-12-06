@@ -246,10 +246,10 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 
 				var epDub = false;
 				var epLeg = false;
-				if (json['content']['t'+tp]['ep'+ep]['dublado'] !== "") {
+				if (json['content']['t'+tp]['ep'+ep]['dublado'] !== "" || json['content']['t'+tp]['ep'+ep]['dublado-hd'] !== "") {
 					epDub = true;
 				}
-				if (json['content']['t'+tp]['ep'+ep]['legendado'] !== "") {
+				if (json['content']['t'+tp]['ep'+ep]['legendado'] !== "" || json['content']['t'+tp]['ep'+ep]['legendado-hd'] !== "") {
 					epLeg = true;
 				}
 
