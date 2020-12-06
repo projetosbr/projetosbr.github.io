@@ -218,6 +218,7 @@ function copyLink(id) {
 
 $('#verificarModal').on('hidden.bs.modal', function () {
 	document.getElementById('vmTitle').innerHTML = "Carregando...";
+	document.getElementById('vmTable').innerHTML = "";
 });
 
 $('#verificarModal').on('show.bs.modal', function (event) {
