@@ -155,7 +155,7 @@
     		<div class="modal-content">
     			<input type="text" id="copyText" style="height: 1px; border: none; opacity: 0;">
       			<div class="modal-header">
-        			<h5 class="modal-title" id="vmTitle">Modal title</h5>
+        			<h5 class="modal-title" id="vmTitle"></h5>
         			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
           				<span aria-hidden="true">&times;</span>
         			</button>
@@ -215,6 +215,10 @@ function copyLink(id) {
 
 	alert('Copiado: '+copyText.value);
 }
+
+$('#verificarModal').on('hidden.bs.modal', function () {
+	document.getElementById('vmTitle').innerHTML = "Carregando...";
+});
 
 $('#verificarModal').on('show.bs.modal', function (event) {
   	var button = $(event.relatedTarget) // Button that triggered the modal
@@ -280,6 +284,7 @@ $('#verificarModal').on('show.bs.modal', function (event) {
 			table = table+"<tr style='height:10px;'></tr>"; // espaço a cada temporada
 		}
 
+		vmTable.innerHTML = "";
         vmTable.innerHTML = table;
 	}
 })	
